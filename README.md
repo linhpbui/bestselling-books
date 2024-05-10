@@ -13,3 +13,9 @@
 - The term "best-selling" refers to the expected number of copies sold for each book, not the number of books printed or currently owned. This list excludes comic books and textbooks. The books are arranged in the order of the greatest sales estimate reported by credible, independent sources ([source](https://www.kaggle.com/datasets/drahulsingh/best-selling-books/data)).
 
 Dataset source: https://www.kaggle.com/datasets/drahulsingh/best-selling-books/data
+
+### Highlighted results
+- Fantasy is the bestselling genre, with the highest sales compared to the others, despite having less number of entries in the list.
+- There are a mixed of books that published from long time ago and books that are published recently. People **will** buy books that are interesting to read.
+- English is the most dominant language of origin for these all time bestselling books, with 131 books (out of 175 books) made it to the bestselling list.
+- J.K. Rowling is the bestselling author, with the highest sales and the most books appearing on the list.
